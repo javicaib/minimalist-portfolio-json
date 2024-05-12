@@ -202,7 +202,8 @@
       "isActive": true,
       "description": "Funciona como fronted una api desarrollada por mi que proporciona información sobre los Monstruos, incluyendo su nombre, tipo y debilidades",
       "highlights": ["Tanstak Query","React", "En desarrollo"],
-      "url": "https://mh-rise-dex.netlify.app/"
+      "url": "https://mh-rise-dex.netlify.app/",
+      "github": "https://github.com/javicaib/react-mhrise-dex"
     },
     {
       "name": "Monster Hunter Dex API (Backend)",
@@ -214,7 +215,8 @@
         "JavaScript",
         "En desarrollo"
       ],
-      "url": "https://mh-rise-api.onrender.com/"
+      "url": "https://mh-rise-api.onrender.com/",
+      "github": ""
     }
   ]
 }
