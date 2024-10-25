@@ -6,7 +6,7 @@
     "email": "javicaib.work@gmail.com",
     "phone": "+53 56418859",
     "url": "",
-    "summary": "+2 años de experiencia como Desarrollador Web. Actualmente soy desarrollador Backend de la herramienta Telus para la plataforma SEOWebmas.",
+    "summary": "Desarrollador con sólida experiencia en proyectos front-end y back-end, con una clara preferencia por el desarrollo backend. Actualmente, colaboro en la Universidad de Ciencias Informáticas de Cuba, contribuyendo al desarrollo del proyecto SEOWebmas, específicamente en la herramienta Telus. Poseo habilidades avanzadas en el ecosistema Spring, destacando Spring Boot, Spring JPA y Spring Security, así como un conocimiento fundamental en Spring Cloud. En el ámbito del front-end, domino tecnologías como React y Tailwind. Comprometido con el aprendizaje continuo y la innovación en el desarrollo de software, gestiono y colaboro en proyectos que priorizan la calidad del código y la escalabilidad.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,8 +39,8 @@
       "url": "https://seowebmas.redcuba.cu",
       "startDate": "2023-02",
       "endDate": null,
-      "summary": "Mantenimiento, Soporte y Desarrollo de la herrmienta Telus para la plataforma SEOWebmas.",
-      "highlights": [""]
+      "summary": "Responsable del mantenimiento, soporte y desarrollo de la herramienta Telus para la plataforma SEOWebmas, garantizando su funcionamiento óptimo y su evolución continua. Este rol implica la integración de soluciones innovadoras y la resolución de desafíos técnicos, con el objetivo de potenciar la experiencia del usuario y maximizar la eficiencia de la plataforma.",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -91,88 +91,53 @@
       "summary": "Description…"
     }
   ],
-  "skills": [
+  "skills": [ 
     {
-      "name": "HTML",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Backend", "Python", "Servidor"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermedio",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
+      "name": "Java",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": ["POO"]
     },
     {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
-    },
-    {
-      "name": "Django",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
-    }
+    "name": "Springboot",
+    "level": "Avanzado",
+    "keywords": ["JPA", "Security", "Microservices"]
+  },
+ 
+  {
+    "name": "Python",
+    "level": "Intermedio",
+    "keywords": ["Desarrollo Web", "Backend", "Python", "Servidor"]
+  },
+  {
+    "name": "Django",
+    "level": "Avanzado",
+    "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"]
+  },
+  {
+    "name": "MySQL",
+    "level": "Intermedio",
+    "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+  },
+  {
+    "name": "Tailwind",
+    "level": "Intermedio",
+    "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+  },
+  {
+    "name": "TypeScript",
+    "level": "Intermedio",
+    "keywords": ["Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"]
+  },
+  {
+    "name": "React",
+    "level": "Avanzado",
+    "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+  },
+  {
+    "name": "Git",
+    "level": "Avanzado",
+    "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+  }
   ],
   "languages": [
     {
@@ -200,7 +165,7 @@
     {
       "name": "Monster Hunter Dex (Fronted)",
       "isActive": true,
-      "description": "Funciona como fronted una api desarrollada por mi que proporciona información sobre los Monstruos, incluyendo su nombre, tipo y debilidades",
+      "description": "Aplicación en desarrollo utilizando Tanstack Query y React, diseñada para consumir una API propia que centraliza información detallada sobre los monstruos de Monster Hunter Rise, incluyendo nombres, tipos y debilidades. La integración con Tanstack Query optimiza la gestión y el caché de datos, proporcionando una experiencia de usuario eficiente y reactiva, mientras que React asegura una interfaz moderna y dinámica.",
       "highlights": ["Tanstak Query","React", "En desarrollo"],
       "url": "https://mh-rise-dex.netlify.app/",
       "github": "https://github.com/javicaib/react-mhrise-dex"
@@ -208,7 +173,7 @@
     {
       "name": "Monster Hunter Dex API (Backend)",
       "isActive": true,
-      "description": "Api desarrollada por mi que proporciona información sobre los Monstruos, incluyendo su nombre, tipo y debilidades",
+      "description": "API desarrollada con Express, MongoDB y JavaScript para centralizar información detallada sobre los monstruos de Monster Hunter Rise, incluyendo nombres, tipos y debilidades. Actualmente en desarrollo.",
       "highlights": [
         "Express",
         "MongoDB",
