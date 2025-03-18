@@ -6,7 +6,7 @@
     "email": "javicaib.work@gmail.com",
     "phone": "+53 56418859",
     "url": "",
-    "summary": "Desarrollador con sólida experiencia en proyectos front-end y back-end, con una clara preferencia por el desarrollo backend. Actualmente, colaboro en la Universidad de Ciencias Informáticas de Cuba, contribuyendo al desarrollo del proyecto SEOWebmas, específicamente en la herramienta Telus. Poseo habilidades avanzadas en el ecosistema Spring, destacando Spring Boot, Spring JPA y Spring Security, así como un conocimiento fundamental en Spring Cloud. En el ámbito del front-end, domino tecnologías como React y Tailwind. Comprometido con el aprendizaje continuo y la innovación en el desarrollo de software, gestiono y colaboro en proyectos que priorizan la calidad del código y la escalabilidad.",
+    "summary": "Soy un desarrollador de software especializado en backend, con amplia experiencia en el ecosistema Spring, incluyendo Spring Boot, Spring JPA y Spring Security, además de conocimientos básicos en Spring Cloud. Actualmente, desempeño el rol de Desarrollador Backend en el Centro de Representación y Análisis de Datos de la Universidad de Ciencias Informáticas de Cuba, donde lidero el mantenimiento y la mejora de la herramienta Telus dentro de la plataforma Monitor Redcuba. En mi trabajo, resuelvo problemas técnicos, implemento soluciones innovadoras y optimizo la eficiencia del sistema y la experiencia de los usuarios.Asimismo, cuento con habilidades básicas en tecnologías frontend como Angular y Tailwind CSS. Siempre priorizo la calidad del código, la escalabilidad y el aprendizaje continuo. Como Ingeniero en Ciencias Informáticas (graduado en 2022), combino mi sólida formación técnica con un enfoque constante en la innovación en cada proyecto.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -102,17 +102,7 @@
     "level": "Avanzado",
     "keywords": ["JPA", "Security", "Microservices"]
   },
- 
-  {
-    "name": "Python",
-    "level": "Intermedio",
-    "keywords": ["Desarrollo Web", "Backend", "Python", "Servidor"]
-  },
-  {
-    "name": "Django",
-    "level": "Avanzado",
-    "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"]
-  },
+
   {
     "name": "MySQL",
     "level": "Intermedio",
