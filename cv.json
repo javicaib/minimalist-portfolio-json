@@ -98,11 +98,15 @@
       "keywords": ["POO"]
     },
     {
+      "name": "Kotlin",
+      "level":"Intermedio",
+      "keywords": ["POO","Backend"]
+    },
+    {
     "name": "Springboot",
     "level": "Avanzado",
     "keywords": ["JPA", "Security", "Microservices"]
   },
-
   {
     "name": "MySQL",
     "level": "Intermedio",
@@ -119,14 +123,29 @@
     "keywords": ["Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"]
   },
   {
-    "name": "React",
-    "level": "Avanzado",
+    "name": "Angular",
+    "level": "Intermedio",
     "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+  },
+  {
+    "name": "NestJS",
+    "level": "Básico",
+    "keywords": ["Backend"]
+  },
+  {
+    "name":"Android Jetpack Compose",
+    "level":"Básico",
+    "keywords": ["Desarrollo Movil"]
   },
   {
     "name": "Git",
     "level": "Avanzado",
     "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+  },
+  {
+    "name": "Docker",
+    "level": "Intermedio",
+    "keywords":["Dockerización"]
   }
   ],
   "languages": [
@@ -153,12 +172,13 @@
   ],
   "projects": [
     {
-      "name": "Monster Hunter Dex (Fronted)",
-      "isActive": true,
-      "description": "Aplicación en desarrollo utilizando Tanstack Query y React, diseñada para consumir una API propia que centraliza información detallada sobre los monstruos de Monster Hunter Rise, incluyendo nombres, tipos y debilidades. La integración con Tanstack Query optimiza la gestión y el caché de datos, proporcionando una experiencia de usuario eficiente y reactiva, mientras que React asegura una interfaz moderna y dinámica.",
-      "highlights": ["Tanstak Query","React", "En desarrollo"],
-      "url": "https://mh-rise-dex.netlify.app/",
-      "github": "https://github.com/javicaib/react-mhrise-dex"
+        "name": "Spring Security Boilerplate",
+        "isActive":false,
+        "description":"Boilerplate de Spring Security con generación de claves con OpenSSL",
+        "highlights":[
+          "Java",
+          "Spring Security"
+        ]
     },
     {
       "name": "Monster Hunter Dex API (Backend)",
@@ -172,6 +192,15 @@
       ],
       "url": "https://mh-rise-api.onrender.com/",
       "github": ""
+    },
+    {
+      "name": "Monster Hunter Dex (Fronted)",
+      "isActive": true,
+      "description": "Aplicación en desarrollo utilizando Tanstack Query y React, diseñada para consumir una API propia que centraliza información detallada sobre los monstruos de Monster Hunter Rise, incluyendo nombres, tipos y debilidades. La integración con Tanstack Query optimiza la gestión y el caché de datos, proporcionando una experiencia de usuario eficiente y reactiva, mientras que React asegura una interfaz moderna y dinámica.",
+      "highlights": ["Tanstak Query","React", "En desarrollo"],
+      "url": "https://mh-rise-dex.netlify.app/",
+      "github": "https://github.com/javicaib/react-mhrise-dex"
     }
+    
   ]
 }
